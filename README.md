@@ -1,6 +1,7 @@
 # GEMM-full-AIE-PL
 
-This repository contains the hardware and software components for GEMM acceleration on Versal VCK190 platform using the AIE array, programmable logic (FPGA), and host CPU for control.
+This repository contains the hardware and software components for GEMM acceleration on Versal VCK190 platform using the AIE array, programmable logic (FPGA), and host CPU for control. This work was accepted at FCCM 2024: [Efficient Approaches for GEMM Acceleration on Leading AI-Optimized FPGAs](https://ieeexplore.ieee.org/abstract/document/10653656)
+
 
 ## Repository structure
 
